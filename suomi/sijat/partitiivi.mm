@@ -88,8 +88,7 @@
       </tr>
     </table>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1351636387553" ID="ID_1825348082" MODIFIED="1351637615158">
 <richcontent TYPE="NODE"><html>
@@ -241,8 +240,7 @@
       </tr>
     </table>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <arrowlink DESTINATION="ID_1825348082" ENDARROW="None" ENDINCLINATION="242;0;" ID="Arrow_ID_459359149" STARTARROW="Default" STARTINCLINATION="242;0;"/>
 </node>
 </node>
@@ -376,8 +374,19 @@
       mutta lapsi &#8594; lasta; hapsi &#8594; hapsea :)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1352215313707" ID="ID_45326556" MODIFIED="1352215495572" POSITION="left" TEXT="usage">
+<node CREATED="1352215325402" ID="ID_1402370176" MODIFIED="1352215472304" TEXT="numerot &gt; 1"/>
+<node CREATED="1352215333389" ID="ID_1870273665" MODIFIED="1352215359333" TEXT="puoli, pari, monta"/>
+<node CREATED="1352215363441" ID="ID_361743646" MODIFIED="1352215369438" TEXT="negatiivinen lause"/>
+<node CREATED="1352215374827" ID="ID_1461905840" MODIFIED="1352215402213" TEXT="m&#xe4;&#xe4;r&#xe4;&#xe4; ilmaiseva sana"/>
+<node CREATED="1352215405568" ID="ID_1490067466" MODIFIED="1352215410186" TEXT="partitiiviverbit">
+<node CREATED="1352215411178" ID="ID_191774893" MODIFIED="1352215415999" TEXT="odottaa"/>
+<node CREATED="1352215881504" ID="ID_696828692" MODIFIED="1352215884393" TEXT="rakastaa"/>
+<node CREATED="1352215896232" ID="ID_1492184486" MODIFIED="1352215898618" TEXT="auttaa"/>
+<node CREATED="1352215899371" ID="ID_1441734909" MODIFIED="1352215901015" TEXT="pelata"/>
 </node>
 </node>
 </node>
